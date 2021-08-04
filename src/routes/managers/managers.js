@@ -139,7 +139,7 @@ export const managers = [
     "bio": "Lorem ipsum...",
     "photo": "/managers/kevin.jpeg", // done
     "fantasyStart": 2014, // when did the manager start playing fantasy football
-    "favoriteTeam": "gdp", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+    "favoriteTeam": "gbp", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
     "rival": {
       name: "Rival", // Can be anything (usually your rival's name)
